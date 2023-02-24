@@ -1,5 +1,9 @@
 # Starter Web Repo
+<<<<<<< HEAD
 This repository is for showing how Git and GitHub work. Adding a line for rebasing example.
+=======
+This repository is for showing how Git and GitHub work. Adding a line for rebasing example,then move changes from myfeature branch too.
+>>>>>>> myfeature
 
 ## Introduction
 this is an example to show different parts of git repo and various commands using a web project
